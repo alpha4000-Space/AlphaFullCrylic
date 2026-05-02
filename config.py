@@ -1,4 +1,4 @@
-BOT_TOKEN = "8218975466:AAFpGk3iHTPbbLSKdMWXQzwQDstB1VTAP18"
-ADMIN_IDS = [8105737095]  # o'zgartiring
+BOT_TOKEN = ""
+ADMIN_IDS = [7399101034]  # o'zgartiring
 REQUIRED_CHANNELS = []
 DB_FILE = "database.json"
